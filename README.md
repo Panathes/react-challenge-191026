@@ -6,7 +6,7 @@ Liste des membres du groupe:
 - Amaury Faveriel
 - Clara de Langenhagen
 - Corentin Croizat
-- Cristophe Charlebois
+- Christophe Charlebois
 - Rémi Doreau
 
 Adresse du serveur:
